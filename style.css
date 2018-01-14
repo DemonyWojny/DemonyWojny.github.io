@@ -1,0 +1,242 @@
+body {
+background: url('img/bg.png') no-repeat;
+background-color: #000000;
+color: #FFFFFF;
+font-family: Tahoma;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+background-position: top center;
+}
+
+
+img {border:0px}
+
+a:link {
+	color: #fcfceb;
+	text-decoration: none;
+}
+
+a:active,
+a:visited {
+	color: #fcfceb;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #19c0db;
+	text-decoration: none;
+}
+
+h4 {
+height: 25px;
+text-align: center;
+background: #1a1a1a;
+border-top: 2px solid #303030; 
+border-left: 2px solid #303030; 
+vertical-align: middle;
+margin: 5 auto;
+line-height: 22px;  
+}
+
+fieldset {
+background: url('img/info_icon.png') no-repeat;
+background-position: right center;
+background-color: #222222;
+}
+
+/* ID */
+
+#strona {
+width: 942px;
+text-align: left;
+}
+
+
+#strona ul, ul li {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 1 6;
+}
+
+#strona ul li {
+	float: left;
+}
+
+#header {
+background: url('img/logo.png') no-repeat;
+background-position: bottom left;
+width: 523px;
+height: 132px;
+}
+
+#header:hover {
+background: url('img/logo_hover.png') no-repeat;
+background-position: bottom left;
+}
+
+#menu {
+background: url('img/cellpic1.gif');
+background-position: top center;
+width: 942px;
+height: 35px;
+}
+
+#content {
+background-color: #262626;
+width: 942px;
+height: auto;
+}
+
+#home {
+position: relative;
+left: 5px;
+width: 931px;
+}
+
+#home div.news {
+	float: left;
+	width: 732px;
+}
+#home div.info {
+	top: 5px;
+	float: left;
+	width: 198px;
+}
+
+#home div.dw {
+	float: left;
+	width: 465px;
+}
+#home div.adw {
+	top: 5px;
+	float: left;
+	width: 465px;
+}
+
+#star {
+position: relative;
+left: 5px;
+width: 931px;
+}
+
+#ramka {
+border-top: 1px solid #303030; 
+border-left: 1px solid #303030; 
+border-right: 1px solid #303030; 
+border-bottom: 1px solid #303030; 
+}
+
+#tekst {
+position: relative;
+margin: 5px;
+font-family: Tahoma;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+}
+
+#tekst-no{
+position: relative;
+font-family: Tahoma;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+}
+
+#tekst2 {
+position: relative;
+margin: 5px;
+height: 463px;
+overflow-y: scroll;
+}
+
+#tekst3 {
+position: relative;
+height: 120px;
+overflow-y: scroll;
+}
+
+#tlo {
+background: #303030;
+border-top: 3px solid #303030; 
+border-left: 3px solid #303030; 
+border-right: 3px solid #303030; 
+border-bottom: 3px solid #303030; 
+width: 942px;
+}
+
+#footer {
+text-align: center;
+color: #555555;
+/*background: #222222;*/
+width: 300px;
+}
+
+#skypedetectionswf {
+position: fixed;
+left: -999em;
+} 
+
+#kontakt {
+border-top: 3px solid #303030; 
+border-left: 3px solid #303030; 
+border-right: 3px solid #303030; 
+border-bottom: 3px solid #303030; 
+text-align: left;
+background: #222222;
+width: 250px; 
+height: 149px;
+}
+
+#osiag {
+position: relative;
+height: 32px;
+width: 425px;
+}
+
+
+/* Klasy */
+
+.left
+{
+	font-family: "Lucida Grande", Verdana;
+	vertical-align: middle;
+	float: left;
+	font-size: 11px;
+	line-height: 30px;
+	font-weight: bold;
+	margin-left: 10px;
+	width: auto;
+}
+
+.menu
+{
+/* Tutaj mo¿na dodaæ efekt do menu :) */
+}
+
+.menu:hover
+{
+	background: url('img/cellpic2.gif');
+	width: auto;
+}
+
+.obramowanie {
+border-top: 3px solid #303030; 
+border-left: 3px solid #303030; 
+border-right: 3px solid #303030; 
+border-bottom: 3px solid #303030; 
+background: #222222;
+}
+
+
+
+
+
+
+
+
+
+
+

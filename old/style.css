@@ -1,0 +1,164 @@
+body {
+background: url('img/tlo.png');
+color: #FFFFFF;
+font-family: Tahoma;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+}
+
+table {
+color: #FFFFFF;
+font-family: Tahoma;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+}
+
+table a {
+color: yellow;
+font-style: normal;
+}
+
+#topbar{
+position:absolute;
+border: 0px;
+padding: 2px;
+background-color: transparent;
+top:-450px;	
+visibility: hidden;
+z-index: 100;
+}
+
+
+#strona {
+margin: 0 auto;
+width: 703px;
+height: 758px;
+text-align: left;
+}
+
+#logo {
+background: url('img/logo.png') no-repeat;
+width: 703px;
+height: 203px;
+position: relative;
+}
+
+#menu {
+position: relative;
+width: 703px;
+height: 41px;}
+
+#menu ul, ul li {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul li {
+	float: left;
+}
+
+#menu ul {
+float: left;
+padding: 0;
+
+}
+
+#news {
+display: block;
+height: 41px;
+width: 94px;
+background-image: url('img/news.png');}
+
+#squad {
+display: block;
+height: 41px;
+width: 100px;
+background: url('img/squad.png');}
+
+#forum {
+display: block;
+width: 100px;
+height: 41px;
+background: url('img/forum.png');}
+
+#osiagniecia {
+display: block;
+width: 130px;
+height: 41px;
+background: url('img/osiagniecia.png');}
+
+#historia {
+display: block;
+height: 41px;
+width: 140px;
+background: url('img/historia.png');}
+
+#ksiegagosci {
+display: block;
+width: 139px;
+height: 41px;
+background: url('img/ksiegagosci.png');}
+
+#news:hover {
+background: url('img/newson.png');
+}
+
+#squad:hover {
+background: url('img/squadon.png');
+}
+
+#forum:hover {
+background: url('img/forumon.png');
+}
+
+#osiagniecia:hover {
+background: url('img/osiagnieciaon.png');
+}
+
+#historia:hover {
+background: url('img/historiaon.png');
+}
+
+#ksiegagosci:hover {
+background: url('img/ksiegagoscion.png');
+}
+
+
+
+#content {
+position: relative;
+background: url('img/strona.png') no-repeat;
+height: 465px;
+width: 703px;
+}
+
+#tekst {
+position: absolute;
+top: 20px;
+left: 20px;
+width: 663px;
+height: 425px;
+}
+
+#tekst2 {
+position: absolute;
+top: 20px;
+left: 20px;
+width: 663px;
+height: 425px;
+overflow: scroll;
+}
+
+
+
+#stopka {
+position: relative;
+background: url('img/stopka.png');
+width: 703px;
+height: 49px;
+}
+

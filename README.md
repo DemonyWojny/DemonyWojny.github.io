@@ -1,1 +1,2 @@
-# DemonyWojny.github.io
+# Demony Wojny Clan
+This repository hold old DW websites.
